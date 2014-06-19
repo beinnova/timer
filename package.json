@@ -1,6 +1,6 @@
 {
   "name": "timer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Modulo per la creazione di tasck temporizzate",
   "main": "lib/timer.js",
     "repository" :
