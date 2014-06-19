@@ -1,0 +1,12 @@
+{
+  "name": "timer",
+  "version": "0.0.0",
+  "description": "Modulo per la creazione di tasck temporizzate",
+  "main": "lib/timer.js",
+    "repository" :
+    { "type" : "git"
+        , "url" : "https://github.com/beinnova/timer.git"
+    },
+    "author": "Giorgio Cerruti <giorgio.cerruti@beinnva.it>",
+  "license": "ISC"
+}
