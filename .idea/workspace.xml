@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="timer.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="timer.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="22" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1710">
+            <state line="32" column="4" selection-start="487" selection-end="487" vertical-scroll-proportion="0.095744684" vertical-offset="540" max-vertical-offset="2124">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="648">
+            <state line="27" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
               <folding>
                 <element signature="e#0#129#0" expanded="false" />
               </folding>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="40" selection-end="40" vertical-scroll-proportion="0.103151865" vertical-offset="0" max-vertical-offset="349">
+            <state line="2" column="19" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="324">
               <folding />
             </state>
           </provider>
@@ -62,9 +62,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/timer.js" />
         <option value="$PROJECT_DIR$/test/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/timer.js" />
       </list>
     </option>
   </component>
@@ -239,9 +239,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/timer.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="22" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1710">
+        <state line="2" column="19" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="324">
           <folding />
         </state>
       </provider>
@@ -255,9 +255,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/lib/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="40" selection-end="40" vertical-scroll-proportion="0.103151865" vertical-offset="0" max-vertical-offset="349">
+        <state line="32" column="4" selection-start="487" selection-end="487" vertical-scroll-proportion="0.095744684" vertical-offset="540" max-vertical-offset="2124">
           <folding />
         </state>
       </provider>
